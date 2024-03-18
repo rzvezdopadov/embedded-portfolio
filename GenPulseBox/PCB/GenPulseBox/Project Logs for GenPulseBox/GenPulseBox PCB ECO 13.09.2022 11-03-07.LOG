@@ -1,0 +1,64 @@
+Added Component: Designator=SA1(Switch_dip_10)
+Add component (AddParameter): Name = "Alternative"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternative2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternative3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CardKRR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "\\192.168.0.101\U_Base\PDF\OTHER\DS1040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentFact"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentLimit"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataSheet"; Value = "#\\192.168.0.101\U_Base\PDF\OTHER\DS1040.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeliveryTime"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group"; Value = "Переключатель"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\192.168.0.101\U_Base\PDF\OTHER\DS1040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Key"; Value = "58"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerTU"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mass"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MilitaryControl"; Value = "ОТК"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "05.09.2022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountChoice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "РМ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "DS1040-10RN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "Переключатель DS1040-10RN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerFact"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerLimit"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SolderName"; Value = "DS1040-10RN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SolderTemperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tag"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "от минус 25 до 80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ViewControl"; Value = "В,100%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageFact"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageLimit"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "X_SORT_1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "X_SORT_2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "X_SORT_3"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetKT67_1 Pin=SA1-1
+Added Pin To Net: NetName=NetKT74_1 Pin=SA1-2
+Added Pin To Net: NetName=NetKT75_1 Pin=SA1-3
+Added Pin To Net: NetName=NetKT76_1 Pin=SA1-4
+Added Pin To Net: NetName=NetKT77_1 Pin=SA1-5
+Added Pin To Net: NetName=NetKT67_1 Pin=SA1-6
+Added Pin To Net: NetName=NetKT74_1 Pin=SA1-7
+Added Pin To Net: NetName=NetKT75_1 Pin=SA1-8
+Added Pin To Net: NetName=NetKT76_1 Pin=SA1-9
+Added Pin To Net: NetName=NetKT77_1 Pin=SA1-10
+Added Pin To Net: NetName=LEV_CH1(1) Pin=SA1-11
+Added Pin To Net: NetName=LEV_CH2(1) Pin=SA1-12
+Added Pin To Net: NetName=LEV_CH1(2) Pin=SA1-13
+Added Pin To Net: NetName=LEV_CH2(2) Pin=SA1-14
+Added Pin To Net: NetName=LEV_SYNC Pin=SA1-15
+Added Pin To Net: NetName=NetC53_2 Pin=SA1-16
+Added Pin To Net: NetName=NetC54_2 Pin=SA1-17
+Added Pin To Net: NetName=NetC55_2 Pin=SA1-18
+Added Pin To Net: NetName=NetC56_2 Pin=SA1-19
+Added Pin To Net: NetName=NetC57_2 Pin=SA1-20
+Added Member To Class: ClassName=GenPulseBox Member=Component SA1 Switch_10pin

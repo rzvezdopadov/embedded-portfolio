@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=SPI_MOSI_PCB+ Pin=XP11-1
+Removed Pin From Net: NetName=SPI_MOSI_PCB- Pin=XP11-2
+Removed Pin From Net: NetName=SPI_MISO_PCB+ Pin=XP11-3
+Removed Pin From Net: NetName=SPI_MISO_PCB- Pin=XP11-4
+Removed Pin From Net: NetName=SPI_CLK_PCB+ Pin=XP11-5
+Removed Pin From Net: NetName=SPI_CLK_PCB- Pin=XP11-6
+Removed Pin From Net: NetName=SPI_SS_PCB+ Pin=XP11-7
+Removed Pin From Net: NetName=SPI_SS_PCB- Pin=XP11-8
+Removed Pin From Net: NetName=UIM_OUT1_PCB+ Pin=XP11-13
+Removed Pin From Net: NetName=UIM_OUT1_PCB- Pin=XP11-14
+Removed Pin From Net: NetName=UIM_OUT1_PCB Pin=XP11-15
+Removed Pin From Net: NetName=UIM_OUT2_PCB+ Pin=XP11-16
+Removed Pin From Net: NetName=-5V_PCB Pin=XP11-35
+Removed Pin From Net: NetName=+5V_PCB Pin=XP11-36
+Removed Pin From Net: NetName=GND_PCB Pin=XP11-37
+Removed Pin From Net: NetName=GND_PCB Pin=XP11-38
+Removed Pin From Net: NetName=+5V_PCB Pin=XP11-39
+Removed Pin From Net: NetName=-5V_PCB Pin=XP11-40
+Added Pin To Net: NetName=+5V_PCB Pin=XP11-1
+Added Pin To Net: NetName=-5V_PCB Pin=XP11-2
+Added Pin To Net: NetName=GND_PCB Pin=XP11-3
+Added Pin To Net: NetName=GND_PCB Pin=XP11-4
+Added Pin To Net: NetName=-5V_PCB Pin=XP11-5
+Added Pin To Net: NetName=+5V_PCB Pin=XP11-6
+Added Pin To Net: NetName=UIM_OUT1_PCB Pin=XP11-25
+Added Pin To Net: NetName=UIM_OUT2_PCB+ Pin=XP11-26
+Added Pin To Net: NetName=UIM_OUT1_PCB+ Pin=XP11-27
+Added Pin To Net: NetName=UIM_OUT1_PCB- Pin=XP11-28
+Added Pin To Net: NetName=SPI_SS_PCB+ Pin=XP11-33
+Added Pin To Net: NetName=SPI_SS_PCB- Pin=XP11-34
+Added Pin To Net: NetName=SPI_CLK_PCB+ Pin=XP11-35
+Added Pin To Net: NetName=SPI_CLK_PCB- Pin=XP11-36
+Added Pin To Net: NetName=SPI_MISO_PCB+ Pin=XP11-37
+Added Pin To Net: NetName=SPI_MISO_PCB- Pin=XP11-38
+Added Pin To Net: NetName=SPI_MOSI_PCB+ Pin=XP11-39
+Added Pin To Net: NetName=SPI_MOSI_PCB- Pin=XP11-40
+Change Net Name : Old Net Name=RS485_A_PCB New Net Name=UIM_IN1_PCB
+Change Net Name : Old Net Name=RS485_B_PCB New Net Name=UIM_IN2_PCB
+Change Net Name : Old Net Name=SVBP1_PCB New Net Name=UIM_OUT2_PCB-
+Change Net Name : Old Net Name=SVBP2_PCB New Net Name=UIM_OUT2_PCB
+Change Net Name : Old Net Name=UIM_IN1_PCB New Net Name=RS485_A_PCB
+Change Net Name : Old Net Name=UIM_IN2_PCB New Net Name=RS485_B_PCB
+Change Net Name : Old Net Name=UIM_OUT2_PCB- New Net Name=SVBP1_PCB
+Change Net Name : Old Net Name=UIM_OUT2_PCB New Net Name=SVBP2_PCB

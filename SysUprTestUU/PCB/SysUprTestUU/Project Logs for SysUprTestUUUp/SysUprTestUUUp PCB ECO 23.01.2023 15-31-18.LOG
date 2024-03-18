@@ -1,0 +1,256 @@
+Removed Pin From Net: NetName=NetDD4_1 Pin=DD4-1
+Removed Pin From Net: NetName=NetDD4_1 Pin=DD4-1
+Removed Pin From Net: NetName=NetDD4_4 Pin=DD4-4
+Removed Pin From Net: NetName=NetDD4_4 Pin=DD4-4
+Removed Pin From Net: NetName=LED0_PCB Pin=DD4-9
+Removed Pin From Net: NetName=LED0_PCB Pin=DD4-9
+Removed Pin From Net: NetName=LED1_PCB Pin=DD4-12
+Removed Pin From Net: NetName=LED1_PCB Pin=DD4-12
+Removed Pin From Net: NetName=NetDD4_1 Pin=R32-1
+Removed Pin From Net: NetName=NetDD4_4 Pin=R33-1
+Removed Pin From Net: NetName=LED0_PCB Pin=R34-1
+Removed Pin From Net: NetName=LED1_PCB Pin=R35-1
+Removed Pin From Net: NetName=SPI_SS_PCB+ Pin=XP11-6
+Removed Pin From Net: NetName=SPI_SS_PCB- Pin=XP11-7
+Removed Pin From Net: NetName=UIM_OUT1_PCB+ Pin=XP11-12
+Removed Pin From Net: NetName=UIM_OUT1_PCB- Pin=XP11-13
+Removed Pin From Net: NetName=UIM_OUT1_PCB Pin=XP11-14
+Removed Pin From Net: NetName=UIM_OUT2_PCB+ Pin=XP11-15
+Removed Pin From Net: NetName=UIM_OUT2_PCB- Pin=XP11-16
+Removed Pin From Net: NetName=UIM_OUT2_PCB Pin=XP11-17
+Removed Pin From Net: NetName=UIM_IN1_PCB Pin=XP11-18
+Removed Pin From Net: NetName=UIM_IN2_PCB Pin=XP11-19
+Removed Pin From Net: NetName=RS485_A_PCB Pin=XP11-20
+Removed Pin From Net: NetName=RS485_B_PCB Pin=XP11-21
+Removed Pin From Net: NetName=SVBP1_PCB Pin=XP11-22
+Removed Pin From Net: NetName=SVBP2_PCB Pin=XP11-23
+Removed Pin From Net: NetName=ADDR0_PCB Pin=XP12-11
+Removed Pin From Net: NetName=ADDR1_PCB Pin=XP12-12
+Removed Pin From Net: NetName=ADDR2_PCB Pin=XP12-13
+Removed Pin From Net: NetName=ADDR3_PCB Pin=XP12-14
+Removed Pin From Net: NetName=ADDR4_PCB Pin=XP12-15
+Removed Pin From Net: NetName=ADDR5_PCB Pin=XP12-16
+Removed Pin From Net: NetName=LED0_PCB Pin=XP12-17
+Removed Pin From Net: NetName=LED1_PCB Pin=XP12-18
+Removed Pin From Net: NetName=LED2_PCB Pin=XP12-19
+Removed Pin From Net: NetName=LED3_PCB Pin=XP12-20
+Removed Pin From Net: NetName=LED4_PCB Pin=XP12-21
+Removed Pin From Net: NetName=INT0_PCB Pin=XP12-26
+Removed Pin From Net: NetName=INT1_PCB Pin=XP12-27
+Removed Pin From Net: NetName=INT2_PCB Pin=XP12-28
+Removed Pin From Net: NetName=INT3_PCB Pin=XP12-29
+Removed Pin From Net: NetName=INT4_PCB Pin=XP12-30
+Removed Pin From Net: NetName=INT5_PCB Pin=XP12-31
+Removed Pin From Net: NetName=INT6_PCB Pin=XP12-32
+Removed Pin From Net: NetName=INT7_PCB Pin=XP12-33
+Change Component Designator: OldDesignator=C16 NewDesignator=C22
+Change Component Designator: OldDesignator=C17 NewDesignator=C23
+Change Component Designator: OldDesignator=C18 NewDesignator=C16
+Change Component Designator: OldDesignator=C19 NewDesignator=C17
+Change Component Designator: OldDesignator=C20 NewDesignator=C18
+Change Component Designator: OldDesignator=C21 NewDesignator=C19
+Change Component Designator: OldDesignator=C22 NewDesignator=C20
+Change Component Designator: OldDesignator=C23 NewDesignator=C21
+Change Component Designator: OldDesignator=DD4 NewDesignator=DD7
+Change Component Designator: OldDesignator=DD5 NewDesignator=DD4
+Change Component Designator: OldDesignator=DD6 NewDesignator=DD5
+Change Component Designator: OldDesignator=DD7 NewDesignator=DD6
+Change Component Designator: OldDesignator=R32 NewDesignator=R44
+Change Component Designator: OldDesignator=R33 NewDesignator=R45
+Change Component Designator: OldDesignator=R34 NewDesignator=R46
+Change Component Designator: OldDesignator=R35 NewDesignator=R47
+Change Component Designator: OldDesignator=R36 NewDesignator=R32
+Change Component Designator: OldDesignator=R37 NewDesignator=R33
+Change Component Designator: OldDesignator=R38 NewDesignator=R34
+Change Component Designator: OldDesignator=R39 NewDesignator=R35
+Change Component Designator: OldDesignator=R40 NewDesignator=R36
+Change Component Designator: OldDesignator=R41 NewDesignator=R37
+Change Component Designator: OldDesignator=R42 NewDesignator=R38
+Change Component Designator: OldDesignator=R43 NewDesignator=R39
+Change Component Designator: OldDesignator=R44 NewDesignator=R40
+Change Component Designator: OldDesignator=R45 NewDesignator=R41
+Change Component Designator: OldDesignator=R46 NewDesignator=R42
+Change Component Designator: OldDesignator=R47 NewDesignator=R43
+Added Pin To Net: NetName=LED2_PCB Pin=DD7-1
+Added Pin To Net: NetName=LED2_PCB Pin=DD7-1
+Added Pin To Net: NetName=LED3_PCB Pin=DD7-4
+Added Pin To Net: NetName=LED3_PCB Pin=DD7-4
+Added Pin To Net: NetName=LED4_PCB Pin=DD7-9
+Added Pin To Net: NetName=LED4_PCB Pin=DD7-9
+Added Pin To Net: NetName=NetDD4_1 Pin=DD7-12
+Added Pin To Net: NetName=NetDD4_1 Pin=DD7-12
+Added Pin To Net: NetName=SVBP1_CP Pin=DD11-8
+Added Pin To Net: NetName=SVBP2_CP Pin=DD11-9
+Added Pin To Net: NetName=LED0_CP Pin=DD11-10
+Added Pin To Net: NetName=LED1_CP Pin=DD11-11
+Added Pin To Net: NetName=NetDD4_4 Pin=DD11-17
+Added Pin To Net: NetName=VOLT8_EN Pin=DD11-18
+Added Pin To Net: NetName=VOLT7_EN Pin=DD11-32
+Added Pin To Net: NetName=VOLT6_EN Pin=DD11-33
+Added Pin To Net: NetName=VOLT5_EN Pin=DD11-34
+Added Pin To Net: NetName=VOLT4_EN Pin=DD11-35
+Added Pin To Net: NetName=VOLT3_EN Pin=DD11-41
+Added Pin To Net: NetName=VOLT2_EN Pin=DD11-45
+Added Pin To Net: NetName=VOLT1_EN Pin=DD11-46
+Added Pin To Net: NetName=LED2_PCB Pin=R44-1
+Added Pin To Net: NetName=LED3_PCB Pin=R45-1
+Added Pin To Net: NetName=LED4_PCB Pin=R46-1
+Added Pin To Net: NetName=NetDD4_1 Pin=R47-1
+Added Pin To Net: NetName=SPI_CLK_PCB- Pin=XP11-6
+Added Pin To Net: NetName=SPI_SS_PCB+ Pin=XP11-7
+Added Pin To Net: NetName=SPI_SS_PCB- Pin=XP11-8
+Added Pin To Net: NetName=UIM_OUT1_PCB+ Pin=XP11-13
+Added Pin To Net: NetName=UIM_OUT1_PCB- Pin=XP11-14
+Added Pin To Net: NetName=UIM_OUT1_PCB Pin=XP11-15
+Added Pin To Net: NetName=UIM_OUT2_PCB+ Pin=XP11-16
+Added Pin To Net: NetName=UIM_OUT2_PCB- Pin=XP11-17
+Added Pin To Net: NetName=UIM_OUT2_PCB Pin=XP11-18
+Added Pin To Net: NetName=UIM_IN1_PCB Pin=XP11-19
+Added Pin To Net: NetName=UIM_IN2_PCB Pin=XP11-20
+Added Pin To Net: NetName=RS485_A_PCB Pin=XP11-21
+Added Pin To Net: NetName=RS485_B_PCB Pin=XP11-22
+Added Pin To Net: NetName=SVBP1_PCB Pin=XP11-23
+Added Pin To Net: NetName=SVBP2_PCB Pin=XP11-24
+Added Pin To Net: NetName=ADDR1_PCB Pin=XP12-11
+Added Pin To Net: NetName=ADDR2_PCB Pin=XP12-12
+Added Pin To Net: NetName=ADDR3_PCB Pin=XP12-13
+Added Pin To Net: NetName=ADDR4_PCB Pin=XP12-14
+Added Pin To Net: NetName=ADDR5_PCB Pin=XP12-15
+Added Pin To Net: NetName=LED1_PCB Pin=XP12-17
+Added Pin To Net: NetName=LED2_PCB Pin=XP12-18
+Added Pin To Net: NetName=LED3_PCB Pin=XP12-19
+Added Pin To Net: NetName=LED4_PCB Pin=XP12-20
+Added Pin To Net: NetName=NetDD4_1 Pin=XP12-21
+Added Pin To Net: NetName=INT1_PCB Pin=XP12-26
+Added Pin To Net: NetName=INT2_PCB Pin=XP12-27
+Added Pin To Net: NetName=INT3_PCB Pin=XP12-28
+Added Pin To Net: NetName=INT4_PCB Pin=XP12-29
+Added Pin To Net: NetName=INT5_PCB Pin=XP12-30
+Added Pin To Net: NetName=INT6_PCB Pin=XP12-31
+Added Pin To Net: NetName=INT7_PCB Pin=XP12-32
+Change Net Name : Old Net Name=LED5_PCB New Net Name=LED6_PCB
+Change Net Name : Old Net Name=NetDD4_1 New Net Name=LED5_PCB
+Change Net Name : Old Net Name=NetDD4_4 New Net Name=LED5_CP
+Added Pin To Net: NetName=ADDR6_PCB Pin=XP12-16
+Added Net: Name=ADDR6_PCB
+Added Pin To Net: NetName=INT8_PCB Pin=XP12-33
+Added Net: Name=INT8_PCB
+Added Pin To Net: NetName=LED2_CP Pin=DD11-12
+Added Net: Name=LED2_CP
+Added Pin To Net: NetName=LED3_CP Pin=DD11-13
+Added Net: Name=LED3_CP
+Added Pin To Net: NetName=LED4_CP Pin=DD11-16
+Added Net: Name=LED4_CP
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C16 PolCap
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C17 Capacitor
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C18 PolCap
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C20 PolCap
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C21 Capacitor
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C22 PolCap
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C23 Capacitor
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C24 Capacitor
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C25 Capacitor
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C27 PolCap
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C28 PolCap
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C29 Capacitor
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C30 Capacitor
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C31 Capacitor
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C33 Capacitor
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C34 Capacitor
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C35 Capacitor
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C36 Capacitor
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C37 Capacitor
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component C43 Capacitor
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component DD4 1554LI1
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component DD5 1554LI1
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component DD6 1554LI1
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component DD7 1554LI1
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component DD9 74HC595
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component DD10 74HC595
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component DD11 STM32F407IGT6
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component DD14 5559IN10U
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component DD15 5559IN10U
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R33 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R34 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R35 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R36 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R37 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R38 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R40 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R41 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R42 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R43 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R44 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R45 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R46 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R47 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R48 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R51 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R52 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R53 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R54 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R55 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R56 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R57 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R58 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R59 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R60 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R61 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R62 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R63 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R64 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R65 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R66 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R67 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R68 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R69 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R71 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R73 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R75 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R76 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R77 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R78 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R79 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R80 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R81 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R82 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R83 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R84 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R87 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R88 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R94 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R95 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R96 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R97 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R98 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R100 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R101 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R102 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R104 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R105 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R106 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R109 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R110 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R114 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R117 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R119 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R121 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R123 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R124 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R125 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R127 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R128 Resistor01
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R129 Resistor01
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R130 Resistor01
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R131 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R135 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R136 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R137 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R138 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R139 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R140 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R141 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R142 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R143 Resistor0062
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R146 Resistor01
+Added Member To Class: ClassName=SysUprTestUUUp Member=Component R148 Resistor0062

@@ -1,0 +1,98 @@
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=+3.3V_D Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=+3.3V_D Pin=C34-2
+Removed Pin From Net: NetName=GND Pin=C38-1
+Removed Pin From Net: NetName=+3.3V_D Pin=C38-2
+Removed Pin From Net: NetName=GND Pin=C39-1
+Removed Pin From Net: NetName=+3.3V_D Pin=C39-2
+Removed Pin From Net: NetName=GND Pin=C40-1
+Removed Pin From Net: NetName=+3.3V_D Pin=C40-2
+Removed Pin From Net: NetName=GND Pin=C44-1
+Removed Pin From Net: NetName=+3.3V_D Pin=C44-2
+Removed Pin From Net: NetName=GND Pin=C48-1
+Removed Pin From Net: NetName=+3.3V_D Pin=C48-2
+Removed Pin From Net: NetName=GND Pin=C49-1
+Removed Pin From Net: NetName=+3.3V_D Pin=C49-2
+Removed Pin From Net: NetName=GND Pin=C52-1
+Removed Pin From Net: NetName=+3.3V_D Pin=C52-2
+Removed Pin From Net: NetName=GND Pin=C56-1
+Removed Pin From Net: NetName=+3.3V_D Pin=C56-2
+Removed Pin From Net: NetName=GND Pin=C58-1
+Removed Pin From Net: NetName=+3.3V_D Pin=C58-2
+Removed Member From Class: ClassName=SysUprTestUUDown Member=C34
+Removed Member From Class: ClassName=SysUprTestUUDown Member=C39
+Removed Member From Class: ClassName=SysUprTestUUDown Member=C40
+Removed Member From Class: ClassName=SysUprTestUUDown Member=C52
+Removed Member From Class: ClassName=SysUprTestUUDown Member=C56
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C1 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C2 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C3 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C4 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C5 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C6 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C7 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C8 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C9 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C10 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C11 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C12 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C13 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C14 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C15 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C16 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C17 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C18 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C19 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C20 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C21 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C22 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C23 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C24 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C25 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C26 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C27 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C28 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C29 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C31 PolCap
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C32 PolCap
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C33 PolCap
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C35 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C37 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C41 PolCap
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C42 PolCap
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C43 PolCap
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C46 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C47 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C50 PolCap
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C55 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C57 PolCap
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C59 PolCap
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C60 Capacitor
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component C61 PolCap
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component DA1 LTM8027MPV#PBF
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component FU3 Predoxranitel
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component FU4 Predoxranitel
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component FU5 Predoxranitel
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component FU6 Predoxranitel
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component L3 Ferrit
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component L8 Ferrit
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component R5 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component R6 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component R7 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component R8 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component R9 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component R10 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component R11 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component R12 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component R13 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component R14 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component R15 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component R16 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component R17 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component R18 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component R27 Resistor025
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component R29 Resistor0125
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component VD2 DiodShottky
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component VD3 DiodZachitnuy
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component VD4 DiodZachitnuy

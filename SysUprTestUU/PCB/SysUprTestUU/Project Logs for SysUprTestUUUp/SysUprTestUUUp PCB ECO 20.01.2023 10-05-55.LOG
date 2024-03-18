@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=ADDR0_PCB Pin=XP12-1
+Removed Pin From Net: NetName=ADDR1_PCB Pin=XP12-2
+Removed Pin From Net: NetName=ADDR2_PCB Pin=XP12-3
+Removed Pin From Net: NetName=ADDR3_PCB Pin=XP12-4
+Removed Pin From Net: NetName=ADDR4_PCB Pin=XP12-5
+Removed Pin From Net: NetName=ADDR5_PCB Pin=XP12-6
+Removed Pin From Net: NetName=TRM_SDA_PCB Pin=XP12-7
+Removed Pin From Net: NetName=TRM_SCL_PCB Pin=XP12-8
+Removed Pin From Net: NetName=VOLT1_PCB Pin=XP12-33
+Removed Pin From Net: NetName=VOLT2_PCB Pin=XP12-34
+Removed Pin From Net: NetName=VOLT3_PCB Pin=XP12-35
+Removed Pin From Net: NetName=VOLT4_PCB Pin=XP12-36
+Removed Pin From Net: NetName=VOLT5_PCB Pin=XP12-37
+Removed Pin From Net: NetName=VOLT6_PCB Pin=XP12-38
+Removed Pin From Net: NetName=VOLT7_PCB Pin=XP12-39
+Removed Pin From Net: NetName=VOLT8_PCB Pin=XP12-40
+Added Pin To Net: NetName=VOLT1_PCB Pin=XP12-1
+Added Pin To Net: NetName=VOLT2_PCB Pin=XP12-2
+Added Pin To Net: NetName=VOLT3_PCB Pin=XP12-3
+Added Pin To Net: NetName=VOLT4_PCB Pin=XP12-4
+Added Pin To Net: NetName=VOLT5_PCB Pin=XP12-5
+Added Pin To Net: NetName=VOLT6_PCB Pin=XP12-6
+Added Pin To Net: NetName=VOLT7_PCB Pin=XP12-7
+Added Pin To Net: NetName=VOLT8_PCB Pin=XP12-8
+Added Pin To Net: NetName=ADDR0_PCB Pin=XP12-9
+Added Pin To Net: NetName=ADDR1_PCB Pin=XP12-10
+Added Pin To Net: NetName=ADDR2_PCB Pin=XP12-11
+Added Pin To Net: NetName=ADDR3_PCB Pin=XP12-12
+Added Pin To Net: NetName=ADDR4_PCB Pin=XP12-13
+Added Pin To Net: NetName=ADDR5_PCB Pin=XP12-14
+Added Pin To Net: NetName=TRM_SDA_PCB Pin=XP12-15
+Added Pin To Net: NetName=TRM_SCL_PCB Pin=XP12-16
+Added Pin To Net: NetName=LED0_PCB Pin=XP12-17
+Added Net: Name=LED0_PCB
+Added Pin To Net: NetName=LED1_PCB Pin=XP12-18
+Added Net: Name=LED1_PCB
+Added Pin To Net: NetName=LED2_PCB Pin=XP12-19
+Added Net: Name=LED2_PCB
+Added Pin To Net: NetName=LED3_PCB Pin=XP12-20
+Added Net: Name=LED3_PCB
+Added Pin To Net: NetName=LED4_PCB Pin=XP12-21
+Added Net: Name=LED4_PCB
+Added Pin To Net: NetName=LED5_PCB Pin=XP12-22
+Added Net: Name=LED5_PCB

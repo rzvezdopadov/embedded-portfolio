@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=SR8 Pin=DD2-15
+Removed Pin From Net: NetName=SR8 Pin=DD4-15
+Removed Pin From Net: NetName=SR8 Pin=DD6-15
+Removed Pin From Net: NetName=SR8 Pin=DD8-15
+Removed Pin From Net: NetName=SR8 Pin=DD10-15
+Removed Pin From Net: NetName=SR8 Pin=R12-2
+Removed Pin From Net: NetName=SR8 Pin=R28-2
+Removed Pin From Net: NetName=SR8 Pin=R44-2
+Removed Pin From Net: NetName=SR8 Pin=R60-2
+Removed Pin From Net: NetName=SR8 Pin=R76-2
+Change Net Name : Old Net Name=SR8 New Net Name=SR_STCP
+Added Pin To Net: NetName=SR8 Pin=DD2-15
+Added Pin To Net: NetName=SR8 Pin=R12-2
+Added Net: Name=SR8
+Added Pin To Net: NetName=SR24 Pin=DD4-15
+Added Pin To Net: NetName=SR24 Pin=R28-2
+Added Net: Name=SR24
+Added Pin To Net: NetName=SR40 Pin=DD6-15
+Added Pin To Net: NetName=SR40 Pin=R44-2
+Added Net: Name=SR40
+Added Pin To Net: NetName=SR56 Pin=DD8-15
+Added Pin To Net: NetName=SR56 Pin=R60-2
+Added Net: Name=SR56
+Added Pin To Net: NetName=SR72 Pin=DD10-15
+Added Pin To Net: NetName=SR72 Pin=R76-2
+Added Net: Name=SR72
+Added Member To Class: ClassName=SysUprTestUULed Member=Component HL1 LED-RGB_C
+Added Member To Class: ClassName=SysUprTestUULed Member=Component HL2 LED-RGB_C
+Added Member To Class: ClassName=SysUprTestUULed Member=Component HL3 LED-RGB_C
+Added Member To Class: ClassName=SysUprTestUULed Member=Component HL4 LED-RGB_C
+Added Member To Class: ClassName=SysUprTestUULed Member=Component HL5 LED-RGB_C

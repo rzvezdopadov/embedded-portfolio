@@ -1,0 +1,118 @@
+Added Component: Designator=XP3(PLD-34)
+Add component (AddParameter): Name = "Alternative"; Value = "PLD-34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternative2"; Value = "ÑÍÏ346-34ÂÏ22-2 ÐÞÌÊ.430420.019ÒÓ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternative3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CardKRR"; Value = "75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ÑÍÏ346"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "\\192.168.0.101\U_Base\PDF\X\ÑÍÏ346.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn01Name"; Value = "T_CS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn02Name"; Value = "CLK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn03Name"; Value = "PEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn04Name"; Value = "F_CS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn05Name"; Value = "MISO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn06Name"; Value = "MOSI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn07Name"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn08Name"; Value = "NC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn09Name"; Value = "VDD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn10Name"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn11Name"; Value = "BL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn12Name"; Value = "VDD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn13Name"; Value = "DB15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn14Name"; Value = "SDCS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn15Name"; Value = "DB13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn16Name"; Value = "DB14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn17Name"; Value = "DB11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn18Name"; Value = "DB12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn19Name"; Value = "DB9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn20Name"; Value = "DB10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn21Name"; Value = "DB7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn22Name"; Value = "DB8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn23Name"; Value = "DB5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn24Name"; Value = "DB6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn25Name"; Value = "DB3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn26Name"; Value = "DB4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn27Name"; Value = "DB1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn28Name"; Value = "DB2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn29Name"; Value = "RST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn30Name"; Value = "DB0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn31Name"; Value = "WR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn32Name"; Value = "RD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn33Name"; Value = "CS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn34Name"; Value = "RS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn35Name"; Value = "35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn36Name"; Value = "36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn37Name"; Value = "37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn38Name"; Value = "38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn39Name"; Value = "39"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn40Name"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentFact"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentLimit"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataSheet"; Value = "#\\192.168.0.101\U_Base\PDF\X\ÑÍÏ346.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeliveryTime"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group"; Value = "Ñîåäèíèòåëè"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\192.168.0.101\U_Base\PDF\X\ÑÍÏ346.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "key"; Value = "57"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ÀÎ «Êàðà÷åâñêèé çàâîä Ýëåêòðîäåòàëü»"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerTU"; Value = "ÐÞÌÊ.430420.011ÒÓ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mass"; Value = "0,00204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MilitaryControl"; Value = "ÂÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "19.09.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountChoice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "ÐÌ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "ÑÍÏ346-34ÂÏ22-2-Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PLD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "Âèëêà ÑÍÏ346-34ÂÏ22-2-Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerFact"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerLimit"; Value = "250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SolderName"; Value = "SNP346-34VP22-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SolderTemperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tag"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "îò ìèíóñ 60 äî 85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ViewControl"; Value = "Â, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageFact"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageLimit"; Value = "250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "X_SORT_1"; Value = "700"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "X_SORT_2"; Value = "600"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "X_SORT_3"; Value = "1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TP_CS Pin=XP3-1
+Added Pin To Net: NetName=TP_SCK Pin=XP3-2
+Added Pin To Net: NetName=TP_IRQ Pin=XP3-3
+Added Pin To Net: NetName=NetKT29_1 Pin=XP3-4
+Added Pin To Net: NetName=TP_MISO Pin=XP3-5
+Added Pin To Net: NetName=TP_MOSI Pin=XP3-6
+Added Pin To Net: NetName=GND Pin=XP3-7
+Added Pin To Net: NetName=+3.3V_D Pin=XP3-9
+Added Pin To Net: NetName=GND Pin=XP3-10
+Added Pin To Net: NetName=+3.3V_D Pin=XP3-11
+Added Pin To Net: NetName=+3.3V_D Pin=XP3-12
+Added Pin To Net: NetName=LCD_D15 Pin=XP3-13
+Added Pin To Net: NetName=NetKT30_1 Pin=XP3-14
+Added Pin To Net: NetName=LCD_D13 Pin=XP3-15
+Added Pin To Net: NetName=LCD_D14 Pin=XP3-16
+Added Pin To Net: NetName=LCD_D11 Pin=XP3-17
+Added Pin To Net: NetName=LCD_D12 Pin=XP3-18
+Added Pin To Net: NetName=LCD_D9 Pin=XP3-19
+Added Pin To Net: NetName=LCD_D10 Pin=XP3-20
+Added Pin To Net: NetName=LCD_D7 Pin=XP3-21
+Added Pin To Net: NetName=LCD_D8 Pin=XP3-22
+Added Pin To Net: NetName=LCD_D5 Pin=XP3-23
+Added Pin To Net: NetName=LCD_D6 Pin=XP3-24
+Added Pin To Net: NetName=LCD_D3 Pin=XP3-25
+Added Pin To Net: NetName=LCD_D4 Pin=XP3-26
+Added Pin To Net: NetName=LCD_D1 Pin=XP3-27
+Added Pin To Net: NetName=LCD_D2 Pin=XP3-28
+Added Pin To Net: NetName=NRST Pin=XP3-29
+Added Pin To Net: NetName=LCD_D0 Pin=XP3-30
+Added Pin To Net: NetName=LCD_WR Pin=XP3-31
+Added Pin To Net: NetName=LCD_RD Pin=XP3-32
+Added Pin To Net: NetName=LCD_CS Pin=XP3-33
+Added Pin To Net: NetName=LCD_RS Pin=XP3-34
+Added Member To Class: ClassName=GenPulseBox Member=Component R76 Resistor1
+Added Member To Class: ClassName=GenPulseBox Member=Component XP3 ConnectorP34

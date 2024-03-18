@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=ADDR0_PCB Pin=XP12-9
+Removed Pin From Net: NetName=ADDR1_PCB Pin=XP12-10
+Removed Pin From Net: NetName=ADDR2_PCB Pin=XP12-11
+Removed Pin From Net: NetName=ADDR3_PCB Pin=XP12-12
+Removed Pin From Net: NetName=ADDR4_PCB Pin=XP12-13
+Removed Pin From Net: NetName=ADDR5_PCB Pin=XP12-14
+Removed Pin From Net: NetName=TRM_SDA_PCB Pin=XP12-15
+Removed Pin From Net: NetName=TRM_SCL_PCB Pin=XP12-16
+Added Pin To Net: NetName=TRM_SDA_PCB Pin=XP12-9
+Added Pin To Net: NetName=TRM_SCL_PCB Pin=XP12-10
+Added Pin To Net: NetName=ADDR0_PCB Pin=XP12-11
+Added Pin To Net: NetName=ADDR1_PCB Pin=XP12-12
+Added Pin To Net: NetName=ADDR2_PCB Pin=XP12-13
+Added Pin To Net: NetName=ADDR3_PCB Pin=XP12-14
+Added Pin To Net: NetName=ADDR4_PCB Pin=XP12-15
+Added Pin To Net: NetName=ADDR5_PCB Pin=XP12-16

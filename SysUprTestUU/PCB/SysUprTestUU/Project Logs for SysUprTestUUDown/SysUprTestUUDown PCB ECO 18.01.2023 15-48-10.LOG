@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=+48V_IN Pin=XP1-1
+Added Pin To Net: NetName=GND_IN Pin=XP1-2
+Added Pin To Net: NetName=GND_IN Pin=XP1-3
+Added Pin To Net: NetName=+48V_IN Pin=XP1-4
+Added Pin To Net: NetName=+48V_IN Pin=XP1-5
+Added Pin To Net: NetName=GND_IN Pin=XP1-6
+Added Pin To Net: NetName=GND_IN Pin=XP1-7
+Added Pin To Net: NetName=+48V_IN Pin=XP1-8
+Added Room: Name=SysUprTestUUDown

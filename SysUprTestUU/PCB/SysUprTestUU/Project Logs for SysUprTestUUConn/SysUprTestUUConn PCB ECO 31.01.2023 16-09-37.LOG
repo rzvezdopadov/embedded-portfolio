@@ -1,0 +1,22 @@
+Added Pin To Net: NetName=INT1_PCB Pin=XP12-16
+Added Net: Name=INT1_PCB
+Added Pin To Net: NetName=INT2_PCB Pin=XP12-13
+Added Net: Name=INT2_PCB
+Added Pin To Net: NetName=INT3_PCB Pin=XP12-14
+Added Net: Name=INT3_PCB
+Added Pin To Net: NetName=INT4_PCB Pin=XP12-11
+Added Net: Name=INT4_PCB
+Added Pin To Net: NetName=INT5_PCB Pin=XP12-12
+Added Net: Name=INT5_PCB
+Added Pin To Net: NetName=INT6_PCB Pin=XP12-9
+Added Net: Name=INT6_PCB
+Added Pin To Net: NetName=INT7_PCB Pin=XP12-10
+Added Net: Name=INT7_PCB
+Added Pin To Net: NetName=INT8_PCB Pin=XP12-8
+Added Net: Name=INT8_PCB
+Added Pin To Net: NetName=SR_DS_PCB Pin=XP12-17
+Added Net: Name=SR_DS_PCB
+Added Pin To Net: NetName=SR_SHCP_PCB Pin=XP12-15
+Added Net: Name=SR_SHCP_PCB
+Added Pin To Net: NetName=SR_STCP_PCB Pin=XP12-18
+Added Net: Name=SR_STCP_PCB

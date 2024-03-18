@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=ADDR1_PCB Pin=XP12-29
+Added Net: Name=ADDR1_PCB
+Added Pin To Net: NetName=ADDR2_PCB Pin=XP12-30
+Added Net: Name=ADDR2_PCB
+Added Pin To Net: NetName=ADDR3_PCB Pin=XP12-27
+Added Net: Name=ADDR3_PCB
+Added Pin To Net: NetName=ADDR4_PCB Pin=XP12-28
+Added Net: Name=ADDR4_PCB
+Added Pin To Net: NetName=ADDR5_PCB Pin=XP12-25
+Added Net: Name=ADDR5_PCB
+Added Pin To Net: NetName=ADDR6_PCB Pin=XP12-26
+Added Net: Name=ADDR6_PCB
+Added Pin To Net: NetName=LED1_PCB Pin=XP12-23
+Added Net: Name=LED1_PCB
+Added Pin To Net: NetName=LED2_PCB Pin=XP12-24
+Added Net: Name=LED2_PCB
+Added Pin To Net: NetName=LED3_PCB Pin=XP12-21
+Added Net: Name=LED3_PCB
+Added Pin To Net: NetName=LED4_PCB Pin=XP12-22
+Added Net: Name=LED4_PCB
+Added Pin To Net: NetName=LED5_PCB Pin=XP12-19
+Added Net: Name=LED5_PCB
+Added Pin To Net: NetName=LED6_PCB Pin=XP12-20
+Added Net: Name=LED6_PCB

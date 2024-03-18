@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=TRM_SCL_PCB Pin=XP12-31
+Added Net: Name=TRM_SCL_PCB
+Added Pin To Net: NetName=TRM_SDA_PCB Pin=XP12-32
+Added Net: Name=TRM_SDA_PCB
+Added Pin To Net: NetName=VOLT1_PCB Pin=XP12-39
+Added Net: Name=VOLT1_PCB
+Added Pin To Net: NetName=VOLT2_PCB Pin=XP12-40
+Added Net: Name=VOLT2_PCB
+Added Pin To Net: NetName=VOLT3_PCB Pin=XP12-37
+Added Net: Name=VOLT3_PCB
+Added Pin To Net: NetName=VOLT4_PCB Pin=XP12-38
+Added Net: Name=VOLT4_PCB
+Added Pin To Net: NetName=VOLT5_PCB Pin=XP12-35
+Added Net: Name=VOLT5_PCB
+Added Pin To Net: NetName=VOLT6_PCB Pin=XP12-36
+Added Net: Name=VOLT6_PCB
+Added Pin To Net: NetName=VOLT7_PCB Pin=XP12-33
+Added Net: Name=VOLT7_PCB
+Added Pin To Net: NetName=VOLT8_PCB Pin=XP12-34
+Added Net: Name=VOLT8_PCB

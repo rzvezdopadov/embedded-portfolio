@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=+48V_IN Pin=FU1-2
+Change Component Designator: OldDesignator=VD1 NewDesignator=VD2
+Change Component Designator: OldDesignator=VD2 NewDesignator=VD3
+Change Component Designator: OldDesignator=VD3 NewDesignator=VD4
+Change Component Designator: OldDesignator=VD4 NewDesignator=VD5
+Change Component Designator: OldDesignator=VD5 NewDesignator=VD6
+Change Component Designator: OldDesignator=VD6 NewDesignator=VD7
+Change Component Designator: OldDesignator=VD7 NewDesignator=VD8
+Change Component Designator: OldDesignator=VD8 NewDesignator=VD9
+Change Component Designator: OldDesignator=VD9 NewDesignator=VD10
+Change Component Designator: OldDesignator=VD10 NewDesignator=VD11
+Change Component Designator: OldDesignator=VD11 NewDesignator=VD12
+Change Component Designator: OldDesignator=VD12 NewDesignator=VD13
+Change Component Designator: OldDesignator=VD13 NewDesignator=VD14
+Change Component Designator: OldDesignator=VD14 NewDesignator=VD15
+Change Component Designator: OldDesignator=VD15 NewDesignator=VD16
+Added Component: Designator=VD1(DO-201AD)
+Add component (AddParameter): Name = "Alternative"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternative2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternative3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CardKRR"; Value = "55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "HER307"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "\\192.168.0.101\U_Base\PDF\V\HER307.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentFact"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentLimit"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataSheet"; Value = "#\\192.168.0.101\U_Base\PDF\V\HER307.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeliveryTime"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group"; Value = "Диоды"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\192.168.0.101\U_Base\PDF\V\HER307.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "key"; Value = "93"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerTU"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mass"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MilitaryControl"; Value = "ОТК"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "14.03.2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountChoice"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "РМ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "HER307"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "DC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "HER307"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerFact"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerLimit"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SolderName"; Value = "HER307"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SolderTemperature"; Value = "260"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tag"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "от минус 65 до 150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ViewControl"; Value = "В, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageFact"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageLimit"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "X_SORT_1"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "X_SORT_2"; Value = "300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "X_SORT_3"; Value = "1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+48V_IN Pin=VD1-A
+Added Pin To Net: NetName=NetFU1_2 Pin=FU1-2
+Added Pin To Net: NetName=NetFU1_2 Pin=VD1-K
+Added Net: Name=NetFU1_2
+Added Member To Class: ClassName=SysUprTestUUDown Member=Component VD16 DiodZachitnuy

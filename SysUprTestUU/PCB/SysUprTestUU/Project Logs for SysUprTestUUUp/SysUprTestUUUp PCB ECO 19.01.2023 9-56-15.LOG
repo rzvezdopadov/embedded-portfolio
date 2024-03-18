@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=UIM_OUT1_PCB Pin=DD13-4
+Added Pin To Net: NetName=UIM_OUT1_PCB Pin=DD13-4
+Added Pin To Net: NetName=UIM_OUT2_PCB Pin=DD14-4
+Added Pin To Net: NetName=UIM_OUT2_PCB Pin=DD14-4
+Added Pin To Net: NetName=SPI_MOSI_PCB+ Pin=XP11-1
+Added Pin To Net: NetName=SPI_MOSI_PCB- Pin=XP11-2
+Added Pin To Net: NetName=SPI_MISO_PCB+ Pin=XP11-3
+Added Pin To Net: NetName=SPI_MISO_PCB- Pin=XP11-4
+Added Pin To Net: NetName=UIM_OUT1_PCB Pin=XP11-10
+Added Pin To Net: NetName=-5V_PCB Pin=XP11-35
+Added Pin To Net: NetName=+5V_PCB Pin=XP11-36
+Added Pin To Net: NetName=GND_PCB Pin=XP11-37
+Added Pin To Net: NetName=GND_PCB Pin=XP11-38
+Added Pin To Net: NetName=+5V_PCB Pin=XP11-39
+Added Pin To Net: NetName=-5V_PCB Pin=XP11-40

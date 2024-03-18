@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=XS? NewDesignator=XS1
+Change Component Designator: OldDesignator=XS? NewDesignator=XS2
+Change Component Designator: OldDesignator=XS? NewDesignator=XS3
+Change Component Designator: OldDesignator=XS? NewDesignator=XS4
+Added Member To Class: ClassName=SysUprTestUUConn Member=Component XS2 ConnectorS20
+Added Member To Class: ClassName=SysUprTestUUConn Member=Component XS3 ConnectorS6
+Added Member To Class: ClassName=SysUprTestUUConn Member=Component XS4 ConnectorS14

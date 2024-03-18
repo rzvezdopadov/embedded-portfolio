@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetHL1_1 Pin=R85-1
+Removed Pin From Net: NetName=NetHL1_4 Pin=R86-1
+Added Pin To Net: NetName=NetHL1_4 Pin=R85-1
+Added Pin To Net: NetName=NetHL1_1 Pin=R86-1
+Change Net Name : Old Net Name=NetHL1_1 New Net Name=NetHL?_4
+Change Net Name : Old Net Name=NetHL1_2 New Net Name=NetHL?_2
+Change Net Name : Old Net Name=NetHL1_4 New Net Name=NetHL?_1

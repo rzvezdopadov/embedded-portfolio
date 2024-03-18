@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LED_DEBUG_O_B Pin=R76-2
+Removed Pin From Net: NetName=LED_DEBUG_O_R Pin=R78-2
+Added Pin To Net: NetName=LED_DEBUG_O_R Pin=R76-2
+Added Pin To Net: NetName=LED_DEBUG_O_B Pin=R78-2

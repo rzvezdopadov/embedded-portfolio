@@ -1,0 +1,121 @@
+Change component parameters: Designator = "XS1" ("XS1"); Footprint = "PBD-40"; UniqueID = "\NEHTQNCT" ("\NEHTQNCT")
+Change component parameters (AddParameter): Name = "Alternative"; Value = "PBD-40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternative2"; Value = "ÑÍÏ346-40ÐÏ22-2 ÐÞÌÊ.430420.019ÒÓ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternative3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CardKRR"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "ÑÍÏ346"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "\\192.168.0.101\U_Base\PDF\X\ÑÍÏ346.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn01Name"; Value = "GND_IN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn02Name"; Value = "+48V_IN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn03Name"; Value = "+48V_IN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn04Name"; Value = "GND_IN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn05Name"; Value = "GND_IN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn06Name"; Value = "+48V_IN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn07Name"; Value = "+48V_IN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn08Name"; Value = "GND_IN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn09Name"; Value = "GND_PCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn10Name"; Value = "+5V_PCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn11Name"; Value = "+5V_PCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn12Name"; Value = "GND_PCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn13Name"; Value = "GND_PCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn14Name"; Value = "-5V_PCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn15Name"; Value = "-5V_PCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn16Name"; Value = "GND_PCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn17Name"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn18Name"; Value = "+5V_D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn19Name"; Value = "+5V_D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn20Name"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn21Name"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn22Name"; Value = "-5V_D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn23Name"; Value = "-5V_D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn24Name"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn25Name"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn26Name"; Value = "+3.3V_D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn27Name"; Value = "+3.3V_D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn28Name"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn29Name"; Value = "GNDA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn30Name"; Value = "+5V_A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn31Name"; Value = "+5V_A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn32Name"; Value = "GNDA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn33Name"; Value = "GNDA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn34Name"; Value = "-5V_A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn35Name"; Value = "-5V_A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn36Name"; Value = "GNDA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn37Name"; Value = "GNDA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn38Name"; Value = "+3.3V_A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn39Name"; Value = "+3.3V_A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conn40Name"; Value = "GNDA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentFact"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentLimit"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DataSheet"; Value = "#\\192.168.0.101\U_Base\PDF\X\ÑÍÏ346.pdf#"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeliveryTime"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group"; Value = "Ñîåäèíèòåëè"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "\\192.168.0.101\U_Base\PDF\X\ÑÍÏ346.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "key"; Value = "120"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ÀÎ «Êàðà÷åâñêèé çàâîä Ýëåêòðîäåòàëü»"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerTU"; Value = "ÐÞÌÊ.430420.011ÒÓ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mark"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mass"; Value = "0,0036"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MilitaryControl"; Value = "ÂÏ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Modify"; Value = "19.09.2018"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MountChoice"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MountType"; Value = "ÐÌ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "ÑÍÏ346-40ÐÏ22-2-Â"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notice"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "PBD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "Ðîçåòêà ÑÍÏ346-40ÐÏ22-2-Â"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerFact"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerLimit"; Value = "250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SolderName"; Value = "SNP346-40RP22-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SolderTemperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tag"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureRange"; Value = "îò ìèíóñ 60 äî 85"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ViewControl"; Value = "Â, 10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageFact"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageLimit"; Value = "250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "X_SORT_1"; Value = "700"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "X_SORT_2"; Value = "600"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "X_SORT_3"; Value = "1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=XS1-17
+Added Pin To Net: NetName=+5V_D Pin=XS1-18
+Added Pin To Net: NetName=+5V_D Pin=XS1-19
+Added Pin To Net: NetName=GND Pin=XS1-20
+Added Pin To Net: NetName=GND Pin=XS1-21
+Added Pin To Net: NetName=GND Pin=XS1-24
+Added Pin To Net: NetName=GND Pin=XS1-25
+Added Pin To Net: NetName=+3.3V_D Pin=XS1-26
+Added Pin To Net: NetName=+3.3V_D Pin=XS1-27
+Added Pin To Net: NetName=GND Pin=XS1-28
+Added Pin To Net: NetName=GNDA Pin=XS1-29
+Added Pin To Net: NetName=GNDA Pin=XS1-32
+Added Pin To Net: NetName=GNDA Pin=XS1-33
+Added Pin To Net: NetName=GNDA Pin=XS1-36
+Added Pin To Net: NetName=GNDA Pin=XS1-37
+Added Pin To Net: NetName=+3.3V_A Pin=XS1-38
+Added Pin To Net: NetName=+3.3V_A Pin=XS1-39
+Added Pin To Net: NetName=GNDA Pin=XS1-40
+Added Pin To Net: NetName=+5V_A Pin=XS1-30
+Added Pin To Net: NetName=+5V_A Pin=XS1-31
+Added Net: Name=+5V_A
+Added Pin To Net: NetName=+5V_PCB Pin=XS1-10
+Added Pin To Net: NetName=+5V_PCB Pin=XS1-11
+Added Net: Name=+5V_PCB
+Added Pin To Net: NetName=-5V_A Pin=XS1-34
+Added Pin To Net: NetName=-5V_A Pin=XS1-35
+Added Net: Name=-5V_A
+Added Pin To Net: NetName=-5V_D Pin=XS1-22
+Added Pin To Net: NetName=-5V_D Pin=XS1-23
+Added Net: Name=-5V_D
+Added Pin To Net: NetName=-5V_PCB Pin=XS1-14
+Added Pin To Net: NetName=-5V_PCB Pin=XS1-15
+Added Net: Name=-5V_PCB
+Added Pin To Net: NetName=GND_PCB Pin=XS1-9
+Added Pin To Net: NetName=GND_PCB Pin=XS1-12
+Added Pin To Net: NetName=GND_PCB Pin=XS1-13
+Added Pin To Net: NetName=GND_PCB Pin=XS1-16
+Added Net: Name=GND_PCB

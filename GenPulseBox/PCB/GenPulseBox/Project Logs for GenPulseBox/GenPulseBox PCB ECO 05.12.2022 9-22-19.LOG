@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=OTG_FS_DM Pin=KT1-1
+Removed Pin From Net: NetName=OTG_FS_DP Pin=KT4-1
+Removed Pin From Net: NetName=OTG_FS_ID Pin=KT5-1
+Removed Pin From Net: NetName=LED_DEBUG_I_R Pin=KT6-1
+Removed Pin From Net: NetName=LED_DEBUG_I_G Pin=KT7-1
+Removed Pin From Net: NetName=LED_DEBUG_I_B Pin=KT8-1
+Removed Pin From Net: NetName=LED_PWR_I_R Pin=KT9-1
+Removed Pin From Net: NetName=LED_PWR_I_G Pin=KT10-1
+Removed Pin From Net: NetName=LED_PWR_I_B Pin=KT11-1
+Removed Pin From Net: NetName=BTN_PAGE_UP Pin=KT12-1
+Removed Pin From Net: NetName=BTN_PROG1 Pin=KT13-1
+Removed Pin From Net: NetName=BTN_PROG2 Pin=KT14-1
+Removed Pin From Net: NetName=BTN_PROG3 Pin=KT15-1
+Removed Pin From Net: NetName=BTN_PROG4 Pin=KT16-1
+Removed Pin From Net: NetName=BTN_PROG5 Pin=KT17-1
+Removed Pin From Net: NetName=BTN_PROG6 Pin=KT18-1
+Removed Pin From Net: NetName=BTN_PAGE_DOWN Pin=KT19-1
+Removed Pin From Net: NetName=BTN_CH1(1)_ON Pin=KT20-1
+Removed Pin From Net: NetName=BTN_CH1(1)_REV Pin=KT21-1
+Removed Pin From Net: NetName=BTN_CH1(2)_ON Pin=KT22-1
+Removed Pin From Net: NetName=BTN_CH1(2)_REV Pin=KT23-1
+Removed Pin From Net: NetName=BTN_CH2(1)_ON Pin=KT24-1
+Removed Pin From Net: NetName=BTN_CH2(1)_REV Pin=KT25-1
+Removed Pin From Net: NetName=BTN_CH2(2)_ON Pin=KT26-1
+Removed Pin From Net: NetName=BTN_CH2(2)_REV Pin=KT27-1
+Removed Pin From Net: NetName=BTN_CALIBR_TP Pin=KT28-1
+Removed Pin From Net: NetName=LEV_CH1(1) Pin=KT31-1
+Removed Pin From Net: NetName=LEV_CH2(1) Pin=KT32-1
+Removed Pin From Net: NetName=LEV_CH1(2) Pin=KT33-1
+Removed Pin From Net: NetName=LEV_CH2(2) Pin=KT34-1
+Removed Pin From Net: NetName=LEV_SYNC Pin=KT35-1
+Removed Pin From Net: NetName=LED_CH1(1)_I_R Pin=KT36-1
+Removed Pin From Net: NetName=LED_CH1(1)_I_G Pin=KT37-1
+Removed Pin From Net: NetName=LED_CH1(1)_I_B Pin=KT38-1
+Removed Pin From Net: NetName=LED_CH2(1)_I_R Pin=KT39-1
+Removed Pin From Net: NetName=LED_CH2(1)_I_G Pin=KT40-1
+Removed Pin From Net: NetName=LED_CH2(1)_I_B Pin=KT41-1
+Removed Pin From Net: NetName=+5V_D Pin=KT42-1
+Removed Pin From Net: NetName=+3.3V_D Pin=KT43-1
+Removed Pin From Net: NetName=USART1_TX Pin=KT44-1
+Removed Pin From Net: NetName=SWCLK Pin=KT45-1
+Removed Pin From Net: NetName=BOOT0 Pin=KT46-1
+Removed Pin From Net: NetName=NRST Pin=KT47-1
+Removed Pin From Net: NetName=LED_CH1(2)_I_R Pin=KT48-1
+Removed Pin From Net: NetName=LED_CH1(2)_I_G Pin=KT49-1
+Removed Pin From Net: NetName=LED_CH1(2)_I_B Pin=KT50-1
+Removed Pin From Net: NetName=LED_CH2(2)_I_R Pin=KT51-1
+Removed Pin From Net: NetName=LED_CH2(2)_I_G Pin=KT52-1
+Removed Pin From Net: NetName=LED_CH2(2)_I_B Pin=KT53-1
+Removed Pin From Net: NetName=PDR_ON Pin=KT54-1
+Removed Pin From Net: NetName=USART1_RX Pin=KT55-1
+Removed Pin From Net: NetName=SDIO Pin=KT56-1
+Removed Pin From Net: NetName=+3.3V_A Pin=KT57-1
+Removed Pin From Net: NetName=+5V_A Pin=KT58-1
+Removed Pin From Net: NetName=STCP_CS0 Pin=KT59-1
+Removed Pin From Net: NetName=DS_MOSI Pin=KT60-1
+Removed Pin From Net: NetName=DS_MISO Pin=KT61-1
+Removed Pin From Net: NetName=STCP_CS1 Pin=KT62-1
+Removed Pin From Net: NetName=SHCP_CLK Pin=KT63-1
+Removed Pin From Net: NetName=NetC64_2 Pin=KT64-1
+Removed Pin From Net: NetName=NetC65_2 Pin=KT65-1
+Removed Pin From Net: NetName=VBAT Pin=KT66-1
+Removed Pin From Net: NetName=NetKT67_1 Pin=KT67-1
+Removed Pin From Net: NetName=PULSE_CH1(1) Pin=KT68-1
+Removed Pin From Net: NetName=PULSE_CH2(1) Pin=KT69-1
+Removed Pin From Net: NetName=PULSE_CH1(2) Pin=KT70-1
+Removed Pin From Net: NetName=PULSE_CH2(2) Pin=KT71-1
+Removed Pin From Net: NetName=PULSE_SYNC Pin=KT72-1
+Removed Pin From Net: NetName=IN_SYNC Pin=KT73-1
+Removed Pin From Net: NetName=NetKT74_1 Pin=KT74-1
+Removed Pin From Net: NetName=NetKT75_1 Pin=KT75-1
+Removed Pin From Net: NetName=NetKT76_1 Pin=KT76-1
+Removed Pin From Net: NetName=NetKT77_1 Pin=KT77-1
+Removed Pin From Net: NetName=NetDA5_10 Pin=KT78-1
+Removed Pin From Net: NetName=NetDA5_12 Pin=KT79-1
+Removed Pin From Net: NetName=NetDD5_13 Pin=KT80-1
+Removed Pin From Net: NetName=RS485_RO Pin=KT81-1
+Removed Pin From Net: NetName=RS485_DI Pin=KT82-1
+Removed Pin From Net: NetName=RS485_EN Pin=KT83-1
+Removed Pin From Net: NetName=OUT_CH1(1) Pin=KT84-1
+Removed Pin From Net: NetName=OUT_CH2(1) Pin=KT85-1
+Removed Pin From Net: NetName=OUT_CH1(2) Pin=KT86-1
+Removed Pin From Net: NetName=OUT_CH2(2) Pin=KT87-1
+Removed Pin From Net: NetName=OUT_SYNC Pin=KT88-1
+Removed Pin From Net: NetName=IN_SYNC_MCU Pin=KT89-1
+Removed Pin From Net: NetName=NetDA5_8 Pin=KT90-1
+Removed Pin From Net: NetName=NetDA5_14 Pin=KT91-1
+Removed Pin From Net: NetName=LED_DEBUG_O_B Pin=KT93-1
+Removed Pin From Net: NetName=LED_DEBUG_O_R Pin=KT94-1
+Removed Pin From Net: NetName=LED_DEBUG_O_G Pin=KT95-1
+Change Component Designator: OldDesignator=KT2 NewDesignator=KT1
+Change Component Designator: OldDesignator=KT3 NewDesignator=KT2
+Change Component Designator: OldDesignator=KT29 NewDesignator=KT3
+Change Component Designator: OldDesignator=KT30 NewDesignator=KT4
+Change Net Name : Old Net Name=NetKT2_1 New Net Name=NetKT1_1
+Change Net Name : Old Net Name=NetKT3_1 New Net Name=NetKT2_1
+Change Net Name : Old Net Name=NetKT29_1 New Net Name=NetKT3_1
+Change Net Name : Old Net Name=NetKT30_1 New Net Name=NetKT4_1
+Change Net Name : Old Net Name=NetKT67_1 New Net Name=NetR41_2
+Change Net Name : Old Net Name=NetKT74_1 New Net Name=NetR42_2
+Change Net Name : Old Net Name=NetKT75_1 New Net Name=NetR43_2
+Change Net Name : Old Net Name=NetKT76_1 New Net Name=NetR44_2
+Change Net Name : Old Net Name=NetKT77_1 New Net Name=NetR45_2
+Added Member To Class: ClassName=GenPulseBox Member=Component KT1 Kont
+Added Member To Class: ClassName=GenPulseBox Member=Component KT2 Kont
+Added Member To Class: ClassName=GenPulseBox Member=Component KT3 Kont
+Added Member To Class: ClassName=GenPulseBox Member=Component KT4 Kont
+Added Room: Name=GenPulseBox
